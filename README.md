@@ -1,5 +1,6 @@
 # not-MIDIocre (VandyHacks V project)
 Turning a Linux-run laptop keyboard into a MIDI keyboard and controlling LEDs with each corresponding note (Similar steps for Mac and Windows, but different applications required).
+NO PHYSICAL MIDI PORTS REQUIRED
 
 # Getting Started
 ## For converting your laptop's keyboard into a MIDI keyboard
