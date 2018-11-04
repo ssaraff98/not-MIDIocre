@@ -1,0 +1,32 @@
+# Keyboard Map
+(Directly noted from VMPK)
+
+2 : C8#
+3 : D8#
+5 : F8#
+6 : G8#
+7 : A8#
+9 : C9#
+0 : D9#
+Q : C8
+W : D8
+E : E8
+R : F8
+T : G8
+Y : A8
+U : B8
+I : C9
+O : D9
+P : E9
+S : C7#
+D : D7#
+G : F7#
+H : G7#
+J : A7#
+Z : C7
+X : D7
+C : E7
+V : F7
+B : G7
+N : A7
+M : B7
